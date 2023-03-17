@@ -5,8 +5,8 @@ import (
 	"sync"
 	"time"
 
-	session "github.com/go-session/session/v3"
 	jsoniter "github.com/json-iterator/go"
+	session "github.com/loyaonline/session"
 	redis "github.com/redis/go-redis/v9"
 )
 

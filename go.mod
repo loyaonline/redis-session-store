@@ -3,8 +3,8 @@ module github.com/loyaonline/redis-session-store
 go 1.19
 
 require (
-	github.com/go-session/session/v3 v3.2.1
 	github.com/json-iterator/go v1.1.12
+	github.com/loyaonline/session v0.0.0-20230317140141-a6420b38b22e
 	github.com/redis/go-redis/v9 v9.0.2
 	github.com/smartystreets/goconvey v1.6.4
 )
